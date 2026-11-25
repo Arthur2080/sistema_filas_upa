@@ -1,4 +1,4 @@
-// Simulador de espera do pronto-socorro.
+// Simulador de espera da UPA.
 // Fluxo: o usuário escolhe a cor -> digita a quantidade e a espera -> o Java calcula -> a tela mostra o resultado.
 
 const CORES = [

@@ -1,5 +1,5 @@
 /**
- * As cinco cores de risco usadas na triagem do pronto-socorro.
+ * As cinco cores de risco usadas na triagem da UPA.
  */
 public class ProtocoloManchester {
 

@@ -1,6 +1,6 @@
-# Pronto-Atendimento — Simulador de espera
+# UPA — Simulador de espera
 
-Dashboard que simula a espera dos pacientes de um pronto-socorro. O usuário escolhe a cor de risco, digita
+Dashboard que simula a espera dos pacientes de uma UPA (Unidade de Pronto Atendimento). O usuário escolhe a cor de risco, digita
 quantos pacientes estão nessa cor e quanto tempo esperaram até o médico. O Java calcula as estatísticas e
 o dashboard mostra o resultado em cartões e gráficos.
 
